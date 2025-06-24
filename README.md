@@ -57,7 +57,4 @@ To analyze retail sales data and discover performance trends across product cate
 - Western region generates strong sales
 - Sales tend to increase toward the end of the year
 
----
-
-## 📁 Repository Structure
 
